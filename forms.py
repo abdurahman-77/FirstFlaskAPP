@@ -1,5 +1,5 @@
 
-from flask_wtf import FlaskForm  #type: ignore
+from flask_wtf import FlaskForm  #type: ignorr
 from wtforms import StringField,SubmitField #type: ignore
 from wtforms.validators import DataRequired #type: ignore
 
